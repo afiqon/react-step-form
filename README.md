@@ -15,13 +15,6 @@ npm start
 npm run build
 ```
 
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
 ### Version
 
 1.0.0
